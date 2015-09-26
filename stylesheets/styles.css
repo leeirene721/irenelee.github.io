@@ -2,14 +2,14 @@
 
 body {
   padding:50px;
-  font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#777;
+  font:16px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color:#000;
   font-weight:300;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#222;
-  margin:0 0 20px;
+  color:#000;
+  margin:0 0 20px;background:#FFF
 }
 
 p, ul, ol, table, pre, dl {
@@ -33,7 +33,7 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#39c;
+  color:#9C0841;
   font-weight:400;
   text-decoration:none;
 }
@@ -65,7 +65,7 @@ code, pre {
 
 pre {
   padding:8px 15px;
-  background: #f8f8f8;
+  background: #000;
   border-radius:5px;
   border:1px solid #e5e5e5;
   overflow-x: auto;
